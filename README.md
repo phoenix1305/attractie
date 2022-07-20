@@ -1,4 +1,4 @@
 # attractie
 # author: Teis Bramsleven
 
-Homework/practice website for webdeveloment course.
+Homework/practice website for webdevelopment course.
